@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "Michelle's Nails",
+        "slug"      : "Michelle-s-nails",
+        "phone"     : "(773) 429-1762",
+        "email"     : "lantran91970@yahoo.com",
+        "address"   : "10342 S Halsted St, Chicago, Illinois 60628",
+        "time_1"    : "Mon - Sat: 10:00 AM - 07:00 PM",
+        "time_2"    : "Sun: Closed"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/michellenailschicago",
+        "instagram" :   "https://www.instagram.com/michelle_nails_chicago",
+        "google"    :   "https://goo.gl/maps/yayxo6KtA8yEstwc8",
+        "booking"   :   "https://www.facebook.com/michellenailschicago",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2978.6876589130416!2d-87.64546304858203!3d41.70567798406291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e25b74b399615%3A0xf63141861e361ced!2sMichelle&#39;s%20Nails!5e0!3m2!1sen!2s!4v1669259956660!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#EF6093",
+        "primary_light"         :   "#AA1A5B",
+        "primary_hover"         :   "#FCACD1",
+        "secondary"             :   "#FFFA8A",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
+
